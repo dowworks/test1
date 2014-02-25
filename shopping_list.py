@@ -13,7 +13,7 @@ prices = { "banana": 4,
 }
 
 food = shopping_list;
-# Write your code below!
+# function fruit sales
 def compute_bill(food): 
     total = 0
     for x in food:
