@@ -17,3 +17,5 @@ for i in stock and prices:
     totalcost = totalcost + (prices[i]*stock[i])
     
 print totalcost
+
+# push to gerrithub
