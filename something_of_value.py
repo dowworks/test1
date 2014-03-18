@@ -19,3 +19,4 @@ for i in stock and prices:
 print totalcost
 
 # push to gerrithub
+# test with gerrit
