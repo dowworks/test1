@@ -1,3 +1,5 @@
+# br2 comment
+
 shopping_list = ["banana", "orange", "apple"]
 
 stock = { "banana": 6,
