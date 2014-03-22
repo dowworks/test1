@@ -20,3 +20,4 @@ print totalcost
 
 # push to gerrithub
 # test with gerrit
+# after mirror
